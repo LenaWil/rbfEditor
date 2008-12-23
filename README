@@ -1,0 +1,44 @@
+
+	rbfEditor - program for RCA REB1100 ebook users.
+
+	It provides three main solutions:
+	1. Converts truetype fonts to raster ebook format
+	fonts. Output fonts may be in Windows-1250, Windows-1251
+	or Windows-1252 encodings.
+	2. Edit ebook fonts (may edit chars shape, font height,
+	interline spacing.
+	3. Provides easy fonts uploading to ebook,
+	through rebtalk program.
+	
+	
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+    
+========================================================
+
+	The libraries distributed with the program are distributed 
+under the terms of appropriate licenses:
+
+Python libraries - Python Software Foundation License agreement
+		   for Python 2.4.3
+
+Python Imaging Libraries - PIL Software License
+
+PyQtGPL10 - General Public License v.2
+
+=========================================================
+
+rbfEditor windows executable files were build with py2exe program
+
+This installation build by the CreateInstall Free Edition
